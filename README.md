@@ -43,3 +43,8 @@ Installation:
 
 • Klar, njut av ditt gym och bli riktigt vältränad!
 
+
+Cred To: P4NDA_GamingV2
+For making this script this is just a ''better'' version
+
+
